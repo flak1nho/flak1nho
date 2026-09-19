@@ -55,7 +55,7 @@ Aqui você encontra projetos da faculdade, estudos e algumas ideias que resolvi 
 
 ### let's connect
 
-<a href="https://www.linkedin.com/in/rafael-f-de-matos?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/rafael-f-de-matos">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
