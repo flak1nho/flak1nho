@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**flak1nho/flak1nho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafael Matos
 
-Here are some ideas to get you started:
+### Computer Science • Development • Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construindo entre código, dados e design.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,figma,photoshop&theme=dark" />
+
+<br><br>
+
+</div>
+
+## about me
+
+Sou estudante de **Ciência da Computação**, atualmente desenvolvendo minha experiência
+em programação, banco de dados e desenvolvimento web.
+
+Antes de focar mais no desenvolvimento, trabalhei com **Design Gráfico** — experiência
+que acabou moldando bastante a forma como penso meus projetos: gosto de código bem
+estruturado, interfaces limpas e atenção aos detalhes.
+
+Hoje, meu foco é transformar conhecimento em projetos reais e evoluir como desenvolvedor.
+
+---
+
+## stack
+
+**Languages & Web**
+
+`Java` `SQL` `HTML` `CSS`
+
+**Tools**
+
+`Git` `GitHub` `MySQL` `Figma` `Photoshop`
+
+**Currently exploring**
+
+`Backend Development` `Databases` `Software Engineering`
+
+---
+
+## projects
+
+Aqui você encontra projetos da faculdade, estudos e algumas ideias que resolvi tirar do papel.
+
+> cada repositório é um pouco do que estou aprendendo no caminho.
+
+---
+
+<div align="center">
+
+### GitHub
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&hide_border=true&theme=github_dark" />
+
+<br><br>
+
+<sub>learning, building & improving.</sub>
+
+</div>
