@@ -53,11 +53,11 @@ Aqui você encontra projetos da faculdade, estudos e algumas ideias que resolvi 
 
 <div align="center">
 
-### GitHub
+### let's connect
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&hide_border=true&theme=github_dark" />
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br><br>
 
