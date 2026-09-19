@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rafael Matos
+# Rafael F. de Matos
 
 ### Computer Science • Development • Design
 
@@ -19,7 +19,7 @@ Construindo entre código, dados e design.
 Sou estudante de **Ciência da Computação**, atualmente desenvolvendo minha experiência
 em programação, banco de dados e desenvolvimento web.
 
-Antes de focar mais no desenvolvimento, trabalhei com **Design Gráfico** — experiência
+Antes de focar mais no desenvolvimento, trabalhei com **Design Gráfico**, experiência
 que acabou moldando bastante a forma como penso meus projetos: gosto de código bem
 estruturado, interfaces limpas e atenção aos detalhes.
 
